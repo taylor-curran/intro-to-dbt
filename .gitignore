@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# DBs
+**.duckdb
+
+# Data Stuff
+/duckdb_stuff
+**/data
